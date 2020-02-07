@@ -1,0 +1,121 @@
+Index: .idea/demotest.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/demotest.iml	(date 1581098660103)
++++ .idea/demotest.iml	(date 1581098660103)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="WEB_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1581098660135)
++++ .idea/vcs.xml	(date 1581098660135)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1581098660151)
++++ .idea/misc.xml	(date 1581098660151)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JavaScriptSettings">
++    <option name="languageLevel" value="ES6" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1581098660167)
++++ .idea/modules.xml	(date 1581098660167)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/demotest.iml" filepath="$PROJECT_DIR$/.idea/demotest.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1581098660907)
++++ .idea/.gitignore	(date 1581098660907)
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(date 1580835695605)
++++ index.html	(date 1580835695605)
+@@ -0,0 +1,19 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Первый запуск</title>
++</head>
++<body>
++<h1>Привет </h1>
++<p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio dolore dolores eaque eum iure
++    libero molestiae quod. Dicta dolor iusto nobis perferendis saepe. Animi maiores necessitatibus pariatur
++    perspiciatis quis.</span><span>Ab accusamus eveniet laudantium nam necessitatibus? Aperiam beatae cupiditate
++    facere fugit ipsum laudantium maiores minima, molestiae nobis omnis qui repellat repellendus repudiandae
++    sapiente, sed, suscipit tempore voluptate voluptatum. Alias, aperiam?</span><span>Amet hic ipsam voluptatem.
++    Animi at, cum dolor doloremque necessitatibus nemo quis tenetur ullam vero vitae? Ad aliquid cupiditate ipsa
++    ipsum laboriosam molestias omnis sequi tenetur. Eos id similique temporibus!</span><span>Ab aspernatur cupiditate
++    dolores ducimus ipsum, laudantiufgm maiores molestias sequi. fffgExercitationem fugit illo nisi possimus rem.
++    Aspernatur cumque esse, mollitia obcaecati, officia perspiciatis quia quibusdam quidem recusandae repellendus, rerum saepe!</span><span>Ducimus eveniet iusto laudantium magni nam neque quo rerum vero? Ab accusamus atque, delectus distinctio est facere facilis illo in maxime molestiae nihil pariatur possimus quas qui repellendus temporibus, vel.</span><span>Accusantium animi asperiores dolore, fugit nam odit optio, perferendis perspiciatis possimus provident, similique sunt velit. Accusantium earum expedita hic ipsa iure iusto, nam necessitatibus, nobis, pariatur placeat quidem sunt unde.</span><span>Assumenda, at aut, beatae dolor in iste itaque laudantium magnam modi perspiciatis porro, possimus saepe temporibus ut veritatis vitae voluptates. Alias, atque dolore ipsa laborum magnam molestiae nisi numquam quo?</span><span>Ab atque, cumque dolore dolorem doloribus est eveniet explicabo fuga illum molestias necessitatibus, neque nulla officiis perspiciatis porro quaerat qui, repellat repudiandae sed similique soluta suscipit vel vitae. Animi, totam.</span><span>A asperiores assumenda, consequatur dolorem doloribus eius ex fuga id incidunt ipsa itaque labore magni mollitia nam officiis optio quisquam recusandae reiciendis repellendus rerum sequi sunt temporibus ullam veritatis voluptatibus.</span><span>Ad assumenda aut consequatur culpa cupiditate deleniti dolores excepturi fugiat fugit illo incidunt laborum magnam maiores nemo nostrum pariatur provident quae qui quia quidem rem reprehenderit rerum, tempora voluptate voluptatem       .</span> </p>
++</body>
++</html>
+\ No newline at end of file
+Index: index2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index2.html	(date 1580755306189)
++++ index2.html	(date 1580755306189)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++	<meta charset="UTF-8">
++	<title>Title</title>
++</head>
++<body>
++
++</body>
++</html>
+\ No newline at end of file
